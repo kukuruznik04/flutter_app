@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutterapp/Screens/HomeScreen.dart';
 import 'package:flutterapp/Screens/Signin.dart';
+import 'package:flutterapp/Screens/ChatRoomScreen.dart';
 
 void main() {
   runApp(MyApp());
@@ -32,7 +33,7 @@ class MyApp extends StatelessWidget {
         visualDensity: VisualDensity.adaptivePlatformDensity,
 //        fontFamily: fam
       ),
-      home: Signin(),
+      home: ChatRoomScreen(),
       debugShowCheckedModeBanner: false
     );
   }
