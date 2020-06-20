@@ -7,7 +7,6 @@ Widget appBarMain(BuildContext context) {
   ]);
 }
 
-
 TextStyle simpleTextStyle() {
   return TextStyle(
     fontSize: 17,
