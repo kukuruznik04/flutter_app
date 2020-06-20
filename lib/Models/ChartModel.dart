@@ -19,5 +19,6 @@ final List<ChartModel> items =[
   ChartModel(name: 'Mina Adu ',message: 'dolorem quisquam dolorem', time: '4:30',profileUrl: 'https://s3.amazonaws.com/uifaces/faces/twitter/notbadart/128.jpg'),
   ChartModel(name: 'Oxygen Otoo',message: 'et laborum mollitia', time: '6:00',profileUrl: 'https://s3.amazonaws.com/uifaces/faces/twitter/marcobarbosa/128.jpg'),
   ChartModel(name: 'Beauty Owusu',message: 'officia et quidem', time: '5:12',profileUrl: 'https://s3.amazonaws.com/uifaces/faces/twitter/moynihan/128.jpg'),
+  ChartModel(name: 'Beauty Owusu',message: 'officia et quidem', time: '5:12',profileUrl: 'https://s3.amazonaws.com/uifaces/faces/twitter/moynihan/128.jpg'),
   ChartModel(name: 'Nurik',message: 'officia et quidem', time: '5:12',profileUrl: 'https://s3.amazonaws.com/uifaces/faces/twitter/moynihan/128.jpg')
 ];
